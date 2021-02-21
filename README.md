@@ -18,9 +18,17 @@ Created an extended Sales report using the data (Data2.xslx) available in this R
 ![page2](Photos/A3-2.png)
 
 #### Page 3:
-- Top 5 profit (in %) making products sold in East region
-- Average time taken between Order Date and Shipping Date for standard class of shipping for the East Region
-- Q & A question to allow users to explore the by asking human readable questions
+- Profit and Loss of top 5 products sold in Mexico
+- Units Sold by Country
 
 
-![page3](Photos/A2-3.png)
+![page3](Photos/A3-3.png)
+
+#### Page 4:
+- Interactive Page with Sales and Manufacturing Data using the top left button on the page
+
+
+![page4](Photos/A3-4.png)
+
+
+![page4](Photos/A3-5.png)
